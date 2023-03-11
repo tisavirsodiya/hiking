@@ -60,4 +60,29 @@ padding-top:100px;
     margin-right:476px;
     margin-top:55px;
 }
-
+.second_img
+{
+    background-image: url("second_img.jpeg");
+    width: 100%;
+    height:800px;
+    background-repeat: no-repeat;
+    /* margin-left:50px; */
+}
+.level
+{
+    font-size: larger;
+    padding-top: 30px;
+    padding-left: 600px;
+}
+.beginner
+{
+    padding-top: 50px;
+}
+.experienced
+{
+    padding-top: 50px;
+}
+.expert
+{
+    padding-top: 50px;
+}
