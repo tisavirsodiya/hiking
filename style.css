@@ -8,6 +8,32 @@
 .text
 {
     padding: 30px;
+    color:white;
+}
+.home
+{
+    color:white;
+
+}
+.About
+{
+    color:white;
+
+}
+.package
+{
+    color:white;
+
+}
+.Gallery
+{
+    color:white;
+
+}
+.contact
+{
+    color:white;
+
 }
 .logo1
 {
@@ -17,6 +43,8 @@
 .header
 {
 padding:30px;
+color:white;
+
 }
 .left
 {
@@ -25,12 +53,19 @@ padding:30px;
     margin-top:210px;
     margin-left:115px;
     margin-right:50px;
+    color:white;
 
 } 
 .logo2
 {
-    width:300px;
-    height:100px;
+    width:70px;
+    height:70px;
+}
+.text1
+{
+    margin-top: 380px;
+    color:white;
+
 }
 .black
 {
@@ -66,23 +101,76 @@ padding-top:100px;
     width: 100%;
     height:800px;
     background-repeat: no-repeat;
-    /* margin-left:50px; */
 }
 .level
 {
-    font-size: larger;
+    font-size: xxx-large;
     padding-top: 30px;
-    padding-left: 600px;
+    padding-left: 470px;
 }
 .beginner
 {
-    padding-top: 50px;
+    padding-top: 80px;
+    padding-left: 145px;
+    font-size: xx-large;
+    color:black;
+
 }
 .experienced
 {
-    padding-top: 50px;
+    padding-top: 80px;
+    padding-left: 90px;
+    font-size: xx-large;
+    color:black;
+
 }
 .expert
 {
-    padding-top: 50px;
+    padding-top: 80px;
+    padding-left: 100px;
+    font-size: xx-large;
+    color:black;
+
 }
+.beginner_text
+{
+    padding-top: 30px;
+    margin-left: 80px;
+    color:black;
+}
+.experienced_text
+{
+    padding-top: 30px;
+    margin-left: 44px;
+    margin-right: 58px;
+    color:black;
+
+}
+.expert_text
+{
+    padding-top: 30px;
+    margin-left: 36px;
+    margin-right: 75px;
+    color:black;
+
+}
+.line1
+{
+    border:1px solid black;
+     width:300px;
+     margin-left: 85px;
+}
+.line2
+{
+    border:1px solid black;
+    width:300px;
+    margin-left: 38px;
+
+}
+.line3
+{
+    border:1px solid black;
+    width:300px;
+    margin-left: 32px;
+ }
+ 
